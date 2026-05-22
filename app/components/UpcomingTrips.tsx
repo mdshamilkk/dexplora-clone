@@ -6,7 +6,7 @@ export default function UpcomingTrips() {
     {
       title: "Sikkim",
       image:
-        "/images/sikkim.avif",
+        "/images/sikkim.jpg",
     },
     {
       title: "Kashmir",

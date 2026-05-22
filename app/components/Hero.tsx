@@ -120,7 +120,7 @@ useEffect(() => {
         <div className="flex items-center">
 
           <img
-            src="/images/LOGON.png"
+            src="/images/logo.png"
             alt="Dexplora Logo"
             className="w-[120px] md:w-[140px] object-contain"
           />
