@@ -8,7 +8,7 @@ export default function Itinerary() {
       title: "The Journey Begins",
       label: "DEPARTURE",
       image:
-        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop",
+        "/images/kera.png",
       text:
         "എറണാകുളം മുതൽ കാസർഗോഡ് വരെയുള്ള വിവിധ സ്റ്റേഷനുകളിൽ നിന്ന് കേരളത്തിന് പുറത്തേക്കുള്ള ട്രെയിൻ യാത്ര ആരംഭിക്കുന്നു.",
     },
@@ -28,7 +28,7 @@ export default function Itinerary() {
       title: "Explore & Toy Train",
       label: "HERITAGE",
       image:
-        "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1600&auto=format&fit=crop",
+        "/images/matheran.png?q=80&w=1600&auto=format&fit=crop",
       text:
         "രാവിലെ മാർക്കറ്റ് എക്സ്പ്ലോർ ചെയ്യുന്നു. ശേഷം മനോഹരമായ ടോയ് ട്രെയിൻ യാത്ര (As per availability).",
     },
